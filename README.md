@@ -1,5 +1,5 @@
 # Assumptions
-These proof of principle simulations are mostly based on ideal lenses and highly simplified optical train. The purpose is to get an estimate what to expect from excitation beam width and detection PSF.
+These proof of principle simulations are mostly based on ideal lenses and highly simplified optical train. The purpose is to get an estimate what to expect from the system, rather than getting exact numbers.
 
 # Simulation software
 - Optalix Pro
